@@ -12,14 +12,6 @@
             "url": "/___graphql",
             "title": "GraphiQL"
           }
-        },
-        {
-          "id": "codesandbox.browser",
-          "options": {
-            "port": 39157,
-            "url": "https://2vd9y-39157.sse.codesandbox.io"
-          },
-          "closeable": true
         }
       ]
     },
