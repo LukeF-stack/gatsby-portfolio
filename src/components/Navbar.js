@@ -13,7 +13,8 @@ const Navbar = class extends React.Component {
               <span />
               <span />
               <span />
-            </div> */
+            </div> 
+  */
 
   constructor(props) {
     super(props);

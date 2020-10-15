@@ -16,8 +16,8 @@
         {
           "id": "codesandbox.browser",
           "options": {
-            "port": 8000,
-            "url": "https://2vd9y-8000.sse.codesandbox.io"
+            "port": 39157,
+            "url": "https://2vd9y-39157.sse.codesandbox.io"
           },
           "closeable": true
         }
